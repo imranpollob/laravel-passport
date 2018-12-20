@@ -1,4 +1,12 @@
-### Basic API authentication using laravel passport
+### API authentication using laravel passport
+
+Functionalities:
+- Signup
+- Email activation after signup
+- Login
+- Logout
+- Protect / Private route
+- Password reset
 
 ```bash
 composer install
